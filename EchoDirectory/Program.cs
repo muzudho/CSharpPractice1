@@ -19,4 +19,5 @@ Please, Push any key.
     Console.ReadKey();
 }
 
+// ディレクトリ・パスをコンソールへ標準出力します
 EchoDirectory();

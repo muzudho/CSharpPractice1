@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ExecuteProcess": {
+      "commandName": "Project",
+      "commandLineArgs": "notepad\r\nmemo.txt"
+    }
+  }
+}
